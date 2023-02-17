@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI bigdata.
 - 🌱 I’m currently learning docker.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me gzc201314@163.com
 
 <!---
 GZC201314/GZC201314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
